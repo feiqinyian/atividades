@@ -14,3 +14,13 @@ var iteravel = [{nome: "Larissa", admin:false},
                 for(const valor of iteravel){
                     console.log(valor.nome)
                      }
+
+var v = "música"
+      for(const valor of v){
+        console.log(valor)
+      }
+
+      do{
+        código
+          }
+  while(condição de continuidade);
